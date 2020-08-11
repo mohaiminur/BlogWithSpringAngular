@@ -22,7 +22,7 @@
 
 *	User can register with email password and need to verify the email. 
 * User can login with the verify email or username and password
-* User can  create post with title and description
+* User can  create and update post with title and description
 * user can see the posted time
 * user can see his/her post or comment in profile section
 * User can read comment on a  post. 
