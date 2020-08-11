@@ -25,7 +25,7 @@
 * User can  create and update post with title and description
 * user can see the posted time
 * user can see his/her post or comment in profile section
-* User can read comment on a  post. 
+* User can read and comment on a  post. 
 * User can upvote and downvote to other post.
 
 
