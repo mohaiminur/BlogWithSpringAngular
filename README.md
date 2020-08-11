@@ -11,7 +11,7 @@
 * Angular
 * MySQL
 * Spring Data JPA
-* Mailtrap
+* Java mail sender
 * Bootstarp
 * HTML5
 * CSS3
