@@ -1,6 +1,6 @@
 # Reddit-clone-with-Spring-and-Angular
  Reddit clone with Spring Boot, Spring MVC, Angular 9, Spring Security, Spring Data JPA, MySQL, Bootstrap 4
-
+In the backend I used spring boot restful api services anf frontend i used angular
 
 ---
 ## Using Tech:
